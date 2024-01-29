@@ -6,4 +6,4 @@ I expand it to 'C10L5/00', 'C10L5/40', 'C10L5/41', 'C10L5/42', 'C10L5/43', 'C10L
 
 If you use patent data from https://github.com/KPSS2017/Technological-Innovation-Resource-Allocation-and-Growth-Extended-Data, it only contains CPC code.
 
-You can use this to convert CPC to IPC: https://www.cooperativepatentclassification.org/cpcConcordances 
+You can use this to convert between CPC and IPC: https://www.cooperativepatentclassification.org/cpcConcordances 
